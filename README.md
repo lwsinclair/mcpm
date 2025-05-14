@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-club-mcpm-badge.png)](https://mseep.ai/app/mcp-club-mcpm)
+
 # MCPM CLI
 
 [![npm version](https://img.shields.io/npm/v/@mcpm/cli.svg)](https://www.npmjs.com/package/@mcpm/cli)
